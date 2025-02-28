@@ -1,17 +1,8 @@
-# Express Hello World Server
-
-A simple Express.js server that responds with "Hello World!".
+# Заказжи пиццу
 
 ## Installation
 
-```bash
-npm install
-```
+1. Clone the repository
 
-## Running the Server
 
-```bash
-npm start
-```
-
-The server will start on http://localhost:3000. Visit this URL in your browser to see the "Hello World!" message. 
+2. Install dependencies:
